@@ -4,7 +4,7 @@
 - remove null values and blanks
 - remove columns
 
-  ###I Managed to use CTEs in removing duplicates together with window functions that is row number.
+  . I Managed to use CTEs in removing duplicates together with window functions that is row number.
   
 # Exploratory data analysis
 - I managed to do some exploratory data analysis using again CTEs, aggregate functions
